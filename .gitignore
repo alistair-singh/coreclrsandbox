@@ -2,3 +2,4 @@
 app/
 packages/
 runtime/
+.nuget/
