@@ -1,0 +1,5 @@
+
+set CORECLR_PATH=%1
+set COREFX_PATH=%2
+
+
