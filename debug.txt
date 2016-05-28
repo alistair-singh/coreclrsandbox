@@ -1,0 +1,2 @@
+bu CoreCLR!Assembly::ExecuteMainMethod ".loadby sos coreclr; ld *; !bpmd HelloWorld.exe HelloWord!Main"
+g
