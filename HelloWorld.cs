@@ -33,7 +33,7 @@ public class Program
     var tokenSource = new CancellationTokenSource();
     var token = tokenSource.Token;
 
-    var task = Task.Factory.StartNew(()=> WorkForever(token, min, max), token);
+    var task = Task.Factory.StartNew(()=> WorkForever(token, min, max), token, TaskCreationOptions.LongRunning, TaskScheduler.Current);
 
     Console.WriteLine("Press any key to exit...");
     Console.ReadKey(true);

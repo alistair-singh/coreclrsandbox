@@ -55,36 +55,36 @@ copy %CORECLR_PATH%\bin\Product\Windows_NT.x64.debug\System.Private.CoreLib.ni.d
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-copy %COREFX_PATH%\bin\Windows_NT.AnyCPU.Debug\System.Runtime\netstandard\System.Runtime.dll app\
-copy %COREFX_PATH%\bin\Windows_NT.AnyCPU.Debug\System.Runtime\netstandard\System.Runtime.pdb app\
+copy %COREFX_PATH%\bin\Windows_NT.AnyCPU.Debug\System.Runtime\System.Runtime.dll app\
+copy %COREFX_PATH%\bin\Windows_NT.AnyCPU.Debug\System.Runtime\System.Runtime.pdb app\
 
-copy %COREFX_PATH%\bin\AnyOS.AnyCPU.Debug\System.Threading.Tasks\netstandard\System.Threading.Tasks.dll app\
-copy %COREFX_PATH%\bin\AnyOS.AnyCPU.Debug\System.Threading.Tasks\netstandard\System.Threading.Tasks.pdb app\
+copy %COREFX_PATH%\bin\AnyOS.AnyCPU.Debug\System.Threading.Tasks\System.Threading.Tasks.dll app\
+copy %COREFX_PATH%\bin\AnyOS.AnyCPU.Debug\System.Threading.Tasks\System.Threading.Tasks.pdb app\
 
-copy %COREFX_PATH%\bin\Windows_NT.AnyCPU.Debug\System.Console\netstandard\System.Console.dll app\
-copy %COREFX_PATH%\bin\Windows_NT.AnyCPU.Debug\System.Console\netstandard\System.Console.pdb app\
+copy %COREFX_PATH%\bin\Windows_NT.AnyCPU.Debug\System.Console\System.Console.dll app\
+copy %COREFX_PATH%\bin\Windows_NT.AnyCPU.Debug\System.Console\System.Console.pdb app\
 
-copy %COREFX_PATH%\bin\AnyOS.AnyCPU.Debug\System.IO\netstandard\System.IO.dll app\
-copy %COREFX_PATH%\bin\AnyOS.AnyCPU.Debug\System.IO\netstandard\System.IO.pdb app\
+copy %COREFX_PATH%\bin\AnyOS.AnyCPU.Debug\System.IO\System.IO.dll app\
+copy %COREFX_PATH%\bin\AnyOS.AnyCPU.Debug\System.IO\System.IO.pdb app\
 
-copy %COREFX_PATH%\bin\AnyOS.AnyCPU.Debug\System.Threading\netstandard\System.Threading.dll app\
-copy %COREFX_PATH%\bin\AnyOS.AnyCPU.Debug\System.Threading\netstandard\System.Threading.pdb app\
+copy %COREFX_PATH%\bin\AnyOS.AnyCPU.Debug\System.Threading\System.Threading.dll app\
+copy %COREFX_PATH%\bin\AnyOS.AnyCPU.Debug\System.Threading\System.Threading.pdb app\
 
-copy %COREFX_PATH%\bin\AnyOS.AnyCPU.Debug\System.IO.FileSystem.Primitives\netstandard\System.IO.FileSystem.Primitives.dll app\
-copy %COREFX_PATH%\bin\AnyOS.AnyCPU.Debug\System.IO.FileSystem.Primitives\netstandard\System.IO.FileSystem.Primitives.pdb app\
+copy %COREFX_PATH%\bin\AnyOS.AnyCPU.Debug\System.IO.FileSystem.Primitives\System.IO.FileSystem.Primitives.dll app\
+copy %COREFX_PATH%\bin\AnyOS.AnyCPU.Debug\System.IO.FileSystem.Primitives\System.IO.FileSystem.Primitives.pdb app\
 
-copy %COREFX_PATH%\bin\Windows_NT.AnyCPU.Debug\System.Diagnostics.Debug\netstandard\System.Diagnostics.Debug.dll app\
-copy %COREFX_PATH%\bin\Windows_NT.AnyCPU.Debug\System.Diagnostics.Debug\netstandard\System.Diagnostics.Debug.pdb app\
+copy %COREFX_PATH%\bin\Windows_NT.AnyCPU.Debug\System.Diagnostics.Debug\System.Diagnostics.Debug.dll app\
+copy %COREFX_PATH%\bin\Windows_NT.AnyCPU.Debug\System.Diagnostics.Debug\System.Diagnostics.Debug.pdb app\
 
-copy %COREFX_PATH%\bin\AnyOS.AnyCPU.Debug\System.Text.Encoding\netstandard\System.Text.Encoding.dll app\
-copy %COREFX_PATH%\bin\AnyOS.AnyCPU.Debug\System.Text.Encoding\netstandard\System.Text.Encoding.pdb app\
+copy %COREFX_PATH%\bin\AnyOS.AnyCPU.Debug\System.Text.Encoding\System.Text.Encoding.dll app\
+copy %COREFX_PATH%\bin\AnyOS.AnyCPU.Debug\System.Text.Encoding\System.Text.Encoding.pdb app\
 
-copy %COREFX_PATH%\bin\AnyOS.AnyCPU.Debug\System.Text.Encoding.Extensions\netstandard\System.Text.Encoding.Extensions.dll app\
-copy %COREFX_PATH%\bin\AnyOS.AnyCPU.Debug\System.Text.Encoding.Extensions\netstandard\System.Text.Encoding.Extensions.pdb app\
+copy %COREFX_PATH%\bin\AnyOS.AnyCPU.Debug\System.Text.Encoding.Extensions\System.Text.Encoding.Extensions.dll app\
+copy %COREFX_PATH%\bin\AnyOS.AnyCPU.Debug\System.Text.Encoding.Extensions\System.Text.Encoding.Extensions.pdb app\
 
-copy %COREFX_PATH%\bin\AnyOS.AnyCPU.Debug\System.Runtime.InteropServices\netstandard\System.Runtime.InteropServices.dll app\
-copy %COREFX_PATH%\bin\AnyOS.AnyCPU.Debug\System.Runtime.InteropServices\netstandard\System.Runtime.InteropServices.pdb app\
+copy %COREFX_PATH%\bin\AnyOS.AnyCPU.Debug\System.Runtime.InteropServices\System.Runtime.InteropServices.dll app\
+copy %COREFX_PATH%\bin\AnyOS.AnyCPU.Debug\System.Runtime.InteropServices\System.Runtime.InteropServices.pdb app\
 
-copy %COREFX_PATH%\bin\Windows_NT.AnyCPU.Debug\System.Runtime.Extensions\netstandard\System.Runtime.Extensions.dll app\
-copy %COREFX_PATH%\bin\Windows_NT.AnyCPU.Debug\System.Runtime.Extensions\netstandard\System.Runtime.Extensions.pdb app\
+copy %COREFX_PATH%\bin\Windows_NT.AnyCPU.Debug\System.Runtime.Extensions\System.Runtime.Extensions.dll app\
+copy %COREFX_PATH%\bin\Windows_NT.AnyCPU.Debug\System.Runtime.Extensions\System.Runtime.Extensions.pdb app\
 

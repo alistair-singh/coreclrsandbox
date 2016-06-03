@@ -1,5 +1,7 @@
+::SET csc=runtime\corerun.exe compiler\csc.exe
+set csc="C:\Program Files (x86)\MSBuild\14.0\Bin\csc.exe"
 mkdir app
-csc ^
+%csc% ^
   /nologo ^
   /nostdlib ^
   /noconfig ^

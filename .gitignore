@@ -3,3 +3,4 @@ app/
 packages/
 runtime/
 .nuget/
+*.log
