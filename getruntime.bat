@@ -88,3 +88,6 @@ copy %COREFX_PATH%\bin\AnyOS.AnyCPU.Debug\System.Runtime.InteropServices\System.
 copy %COREFX_PATH%\bin\Windows_NT.AnyCPU.Debug\System.Runtime.Extensions\System.Runtime.Extensions.dll app\
 copy %COREFX_PATH%\bin\Windows_NT.AnyCPU.Debug\System.Runtime.Extensions\System.Runtime.Extensions.pdb app\
 
+set CORECLR_PATH=
+set COREFX_PATH=
+

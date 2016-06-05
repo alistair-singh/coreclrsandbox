@@ -1,6 +1,10 @@
-::SET csc=runtime\corerun.exe compiler\csc.exe
-set csc="C:\Program Files (x86)\MSBuild\14.0\Bin\csc.exe"
+
+@echo off
+
+SET csc=compiler\csc.cmd
+
 mkdir app
+
 %csc% ^
   /nologo ^
   /nostdlib ^
@@ -13,3 +17,5 @@ mkdir app
   /r:packages\System.Console.4.0.0-rc2-24027\ref\netstandard1.3\System.Console.dll ^
   /out:app\HelloWorld.exe ^
   HelloWorld.cs  
+
+

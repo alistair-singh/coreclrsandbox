@@ -1,6 +1,8 @@
 
 app/
 packages/
+compiler/
 runtime/
 .nuget/
 *.log
+
