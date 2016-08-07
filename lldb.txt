@@ -1,0 +1,3 @@
+
+plugin load runtime/libsosplugin.so
+run

@@ -1,3 +1,3 @@
 #!/bin/sh
 
-lldb-3.6 runtime/corerun app/HelloWorld.exe 
+lldb-3.6 --source lldb.txt runtime/corerun app/HelloWorld.exe 
